@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextViewWithBorder">
+        <item name="android:textColor">#FFFFFF</item> <!-- Color del texto blanco -->
+        <item name="android:shadowColor">#000000</item> <!-- Color de la sombra (negro) -->
+        <item name="android:shadowDx">0</item> <!-- Desplazamiento horizontal de la sombra -->
+        <item name="android:shadowDy">0</item> <!-- Desplazamiento vertical de la sombra -->
+        <item name="android:shadowRadius">20</item> <!-- Radio de la sombra -->
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">monospace</item>
+    </style>
+</resources>
